@@ -1,3 +1,3 @@
-module github.com/sasidakh/pkg
+module github.com/koppathachan/pkg
 
-go 1.16
+go 1.19
